@@ -28,7 +28,7 @@ html {
   }
 
   h1 {
-      @apply text-4xl lg:text-5xl xl:text-6xl font-heading font-bold;
+      @apply text-3xl lg:text-5xl xl:text-5xl font-heading font-bold;
   }
 
   h2 {
@@ -39,8 +39,12 @@ html {
       @apply text-2xl lg:text-3xl xl:text-4xl font-heading font-bold;
   }
 
+  h4 {
+    @apply text-xl font-heading;
+}
+
   p {
-      @apply text-lg;
+      @apply text-sm;
   }
 
   span {
@@ -57,7 +61,7 @@ html {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #e50ba8;
+  background-color: #FCCB05;
   border-radius: 1rem;
   background-clip: content-box;
 }

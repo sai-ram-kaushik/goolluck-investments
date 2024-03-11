@@ -1,0 +1,32 @@
+{
+    "homePage": {
+        "title": "Goolluck Investments - ",
+        "subTitle": "Stock Market Training Institute",
+        "content": "Goolluck Investments is a portfolio advisory firm and stock market training institute. Here, you will learn about real time trading and strategies used by the traders of our institution. Learn directly from trader. Come & learn directly from traders.",
+        "buttonTitle": "Get Started",
+        "image": "/investment_vector.svg"
+    },
+
+    "about": {
+        "title": "About Goolluck Investments",
+        "content": [
+            {
+                "label": "Comprehensive Financial Services",
+                "desc": "GOOLLUCK INVESTMENTS serves as your reliable and comprehensive financial service provider. We understand the importance of your financial goals and strive to offer tailored solutions. With years of industry experience, we are committed to assisting individuals and businesses in achieving financial success.",
+                "icon": "/icons/bag.svg"
+            },
+
+            {
+                "label": "Leading Financial Training Institute",
+                "desc": "As a leading financial training institute, we are dedicated to empowering individuals and professionals. Our focus is on providing knowledge and skills essential for excelling in the dynamic world of finance. Through a commitment to excellence, innovation, and a passion for education, we have become a trusted resource for financial education and training.",
+                "icon": "/icons/bag.svg"
+            },
+
+            {
+                "label": "Commitment to Excellence and Innovation",
+                "desc": "At GOOLLUCK INVESTMENTS, our commitment to excellence and innovation sets us apart. We are not just financial experts but also dedicated educators, ensuring you have the tools for success. Count on us as a trusted partner in your financial journey, where a passion for education drives our commitment to your financial well-being.",
+                "icon": "/icons/bag.svg"
+            }
+        ]
+    }
+}

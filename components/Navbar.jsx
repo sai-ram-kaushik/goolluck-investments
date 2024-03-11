@@ -19,10 +19,16 @@ const Navbar = () => {
             <div className="flex items-center justify-between w-full h-full">
                 {/* logo */}
                 <Link href="/">
-                    <Image src={logo} alt="logo" width={300} height={300} priority />
+                    <Image
+                        src={logo}
+                        alt="logo"
+                        width={250}
+                        height={250}
+                        priority
+                    />
                 </Link>
 
-                <div className="hidden md:flex items-center gap-8 text-lg">
+                <div className="hidden md:flex items-center gap-8 text-md">
                     {menuLinks.map((list, index) => {
                         return (
                             <ul
@@ -35,10 +41,11 @@ const Navbar = () => {
                             </ul>
                         );
                     })}
-                    <Link href="/contact-us">
-                        <Button title="Contact Us" />
-                    </Link>
                 </div>
+
+                <Link href="/contact-us" className="hidden md:flex">
+                    <Button title="Contact Us" />
+                </Link>
 
                 <div
                     className="block md:hidden rounded-full p-2 bg-secondary text-background"

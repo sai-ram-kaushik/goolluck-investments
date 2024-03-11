@@ -5,7 +5,7 @@ const HomePage = ({ homePage }) => {
     const { title, subTitle, content, buttonTitle, image } = homePage;
     return (
         <div className="w-full py-10">
-            <div className="flex flex-col-reverse md:flex-row items-center justify-center gap-5 lg:space-x-64 ">
+            <div className="flex flex-col-reverse lg:flex-row items-center justify-center gap-5 lg:space-x-64 ">
                 <div className="flex flex-col items-start gap-3 max-w-[800px]">
                     <h1 className="lg:leading-[3.5rem]">
                         {title} <span>{subTitle}</span>

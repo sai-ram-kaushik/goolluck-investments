@@ -1,0 +1,123 @@
+{
+    "aboutPage": {
+        "title": "About Goolluck Investments",
+        "content": [
+            {
+                "label": "Portfolio Advisory Firm",
+                "desc": "Welcome to GOOLLUCK INVESTMENTS, your reliable and comprehensive financial service provider. We understand the importance of your financial goals and strive to offer tailored solutions that meet your unique needs. With years of experience in the industry, we have established ourselves as industry experts committed to assisting individuals and businesses in achieving financial success."
+            },
+
+            {
+                "label": "Stock Market Training Institute",
+                "desc": "As a leading financial training institute, we are dedicated to empowering individuals and professionals. Our focus is on providing knowledge and skills essential for excelling in the dynamic world of finance. Through a commitment to excellence, innovation, and a passion for education, we have become a trusted resource for financial education and training."
+            }
+        ],
+        "whyGoolluck": {
+            "title": "Why Goolluck Investments",
+            "content": "Welcome to GOOLLUCK INVESTMENTS: Where expertise meets excellence in Stock market training.",
+            "desc": "Unlock the secrets of successful trading with Goolluck Investments, your gateway to a world of financial possibilities. Our instructors bring real-world experience and proven strategies to the forefront, ensuring you receive top-notch education from the very best. Our unique approach sets us apart, and here’s why you should choose GOOLLUCK INVESTMENT for stock market training",
+            "points": [
+                {
+                    "index": "1",
+                    "desc": "Learn from champions: Gain a competitive edge, and Benefit yourself from training by the 19 times winner of CNBC Bulls Eye contest (Best Portfolio Manager Contest). BSE and NISM certified trainers."
+                },
+
+                {
+                    "index": "2",
+                    "desc": "Notable Speaker: Featured as speaker at Antim Bazzi on Zee Business News Channel, our experts are trusted voices in the financial industry. Learn from the best to become the best."
+                },
+
+                {
+                    "index": "3",
+                    "desc": "Global Expertise: Our trainers boast a background of Trainers for Hedge funds at State Street, US. Understand the dynamics of international markets and refine your trading skills with a truly global perspective."
+                },
+
+                {
+                    "index": "4",
+                    "desc": "Real-time Learning, Real-time Results: We go beyond historical data. Witness the power of our strategies as we showcase live trades in our personal portfolio. Transparency and real-time results are the cornerstones of our approach, ensuring you stay informed and confident in your financial decisions."
+                },
+
+                {
+                    "index": "5",
+                    "desc": "Unmatched Support: Your success is our priority. Enjoy the advantage of multiple revisions at no extra cost. We believe in refining your skills until you are confident and ready to navigate the stock market with precision."
+                },
+
+                {
+                    "index": "6",
+                    "desc": "Lifetime Association: Join the elite ranks of Goolluck Pro-traders and Goolluck Scholars. As a member, your association with us doesn't end with training. Benefit from lifelong support, exclusive insights, and a community of like-minded individuals dedicated to mastering the art of trading."
+                }
+            ],
+
+            "image": "/sde.svg"
+        },
+
+        "team": {
+            "title": "Our Team",
+            "teamMembers": [
+                {
+                    "name": "Jaya Srivastava",
+                    "designation": "Financial Advisor",
+                    "description": "Seasoned professional with 10+ years of work experience in stock broking firm. MBA finance Stock market enthusiasts, expertise on managing and advising on wealth creation. Believes in nurturing the long term financial relationship",
+                    "photo": "/team/jaya.png",
+                    "key": "jaya"
+                },
+                {
+                    "name": "Bharti",
+                    "designation": "Financial Advisor",
+                    "description": "MBA in Finance, 9+ years of experience in Stock Market.  Transparency, integrity, and open communication define my client relationships, Let's work together to turn your financial aspirations into a reality.",
+                    "photo": "/team/bharti.png",
+                    "key": "bharti"
+                },
+                {
+                    "name": "Mansi",
+                    "designation": "Financial Advisor",
+                    "description": "Bcom (Hons.), MBA in finance, 5+ years of experience in the stock market, BSE certified in Financial Market course, I am committed to helping you achieve your unique financial goals and dreams, My mission is to simplify complex financial charts and make them work for you",
+                    "photo": "/team/mansi.png",
+                    "key": "mansi"
+                },
+                {
+                    "name": "Yash Madan",
+                    "designation": "Financial Advisor",
+                    "description": "Mathematics major with 4+ years experience in financial markets, Focused on designing investment strategies that minimises the risk of markets, Keeping the investments safe is the top priority, Let me help you create a portfolio that lets you retire early.",
+                    "photo": "/team/yash_madan.png",
+                    "key": "yash"
+                },
+                {
+                    "name": "Vidhi",
+                    "designation": "Financial Advisor",
+                    "description": "B.SC(H) Mathematics, 2+ Year Experience in Stock Market, My mission is to craft personalized financial strategies for your unique journey to prosperity. Beyond advice, we offer a roadmap to financial freedom and confidence",
+                    "photo": "/team/vidhi.png",
+                    "key": "Vidhi"
+                },
+                {
+                    "name": "Deepti Khatri",
+                    "designation": "Financial Advisor",
+                    "description": "Rooted in multi faceted experience, I prioritise investments to enrich lives and secure futures. The right relationship is everything-with finances & people.",
+                    "photo": "/team/deepti.png",
+                    "key": "Deepti"
+                },
+                {
+                    "name": "Deepti Attreja",
+                    "designation": "Financial Advisor",
+                    "description": "M.Com, MBA in finance, Diverse 8+ years of experience in financial sector, I stay at the forefront of industry trends, ensuring your financial plan adapts to the ever-changing market, Your financial well-being is my priority; let's work together to secure your future.",
+                    "photo": "/team/deepti_attreja.png",
+                    "key": "Deepti_Attreja"
+                },
+                {
+                    "name": "Ritu Rai",
+                    "designation": "Financial Advisor",
+                    "description": "Join a community of empowered individuals who are transforming their financial lives under my guidance. Every financial decision you make is a building block toward your dreams; let's build together, Contact me today for a consultation, and let's embark on a journey to financial prosperity.",
+                    "photo": "/team/ritu.png",
+                    "key": "Deepti_Attreja"
+                },
+                {
+                    "name": "Palak",
+                    "designation": "Financial Advisor",
+                    "description": "BBA and PGDM in finance, 2+ years of experience in Stock Market, Transparency is at the core of my client relationships, ensuring you are informed every step of the way. As your financial ally, I am committed to turning your financial goals into achievable milestones.",
+                    "photo": "/team/palak.png",
+                    "key": "Deepti_Attreja"
+                }
+            ]
+        }
+    }
+}

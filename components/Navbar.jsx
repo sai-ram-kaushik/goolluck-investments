@@ -15,7 +15,7 @@ const Navbar = () => {
     };
 
     return (
-        <div className="w-full h-20 px-5 lg:px-10">
+        <div className="w-full h-20 px-5 lg:px-10 sticky top-0 bg-background">
             <div className="flex items-center justify-between w-full h-full">
                 {/* logo */}
                 <Link href="/">
@@ -62,7 +62,7 @@ const Navbar = () => {
                         : "fixed left-[-100%] top-0 h-screen p-10 ease-in duration-700"
                 }
             >
-                <Link href="/">
+                <Link href="/" onClick={handleChange}>
                     <Image
                         src={logo_black}
                         alt="logo"

@@ -8,6 +8,7 @@ const About = ({ about }) => {
                 <h3>{title}</h3>
             </div>
 
+
             <div className="grid grid-cols-1 md:grid-cols-3 gap-10 md:gap-24 mt-10">
                 {content.map((list, index) => {
                     return (

@@ -1,0 +1,39 @@
+{
+    "stockMarketTraining": {
+        "intruction": {
+            "title": "Instructions for New Upcoming Batch",
+            "content": "Welcome to Goolluck Investments: Stock market training Institute, where Our mission is to convert your financial dreams into actionable plans and equip you with the knowledge and skills needed to navigate the dynamics world of finance. Below are the terms and conditions for our upcoming batch. Please read them carefully to ensure a smooth and enriching learning experience:",
+            "points": [
+                {
+                    "index": "1",
+                    "desc": "The first class serves as a trial or complementary session for you to get a feel for our teaching methods and course content."
+                },
+
+                {
+                    "index": "2",
+                    "desc": "Live Training and No Recording: Our training is conducted live to align with the changing dynamics of the market. Recordings will not be provided to ensure real-time engagements and interaction."
+                },
+
+                {
+                    "index": "3",
+                    "desc": "Receive a comprehensive Bullet points rule book to guide you through the essentials of financial trading."
+                },
+
+                {
+                    "index": "4",
+                    "desc": "For Pro-Traders: If, within the 3-month training period, you are unable to make a profit or incur losses, we refund your full course fees."
+                },
+
+                {
+                    "index": "5",
+                    "desc": "If, after completing the course, you find it challenging to understand certain concepts you can re-enroll for classes without paying additional fees."
+                },
+
+                {
+                    "index": "6",
+                    "desc": "Enroll in a group of 2 or more and enjoy a flat 20% additional discount on the total fees."
+                }
+            ]
+        }
+    }
+}

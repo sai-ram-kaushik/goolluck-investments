@@ -28,11 +28,11 @@ html {
   }
 
   h1 {
-      @apply text-3xl lg:text-5xl xl:text-5xl font-heading font-bold;
+      @apply text-3xl lg:text-4xl xl:text-4xl font-heading font-bold;
   }
 
   h2 {
-      @apply text-3xl lg:text-4xl xl:text-5xl font-heading font-bold;
+      @apply text-3xl lg:text-4xl xl:text-4xl font-heading font-bold;
   }
 
   h3 {
@@ -54,6 +54,10 @@ html {
   input {
       @apply p-3 bg-transparent border border-secondary rounded-xl
   }
+
+  input {
+    @apply p-3 bg-transparent border border-secondary rounded-xl outline-none;
+}
 }
 
 ::-webkit-scrollbar {

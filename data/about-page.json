@@ -53,6 +53,13 @@
 
         "team": {
             "title": "Our Team",
+            "founder": {
+                "name": "Rohit Mongia",
+                "designation": "Founder",
+                "description": "Possesses over 18 years of Trading experience. 19 Times winner of CNBC Bulls Eye Contest (Best Portfolio Manager Contest in the Country). Derivatives Expert with Zee Business Live News Channel. Equity Expert with Investor India Magzine. Former Trainer at State Street Corp US for Hedge fund Training. Ex-National Head for Stock Broking Arm of Bajaj Capital.",
+                "photo": "/team/rohit.png"
+            },
+
             "teamMembers": [
                 {
                     "name": "Jaya Srivastava",
@@ -108,14 +115,14 @@
                     "designation": "Financial Advisor",
                     "description": "Join a community of empowered individuals who are transforming their financial lives under my guidance. Every financial decision you make is a building block toward your dreams; let's build together, Contact me today for a consultation, and let's embark on a journey to financial prosperity.",
                     "photo": "/team/ritu.png",
-                    "key": "Deepti_Attreja"
+                    "key": "Ritu"
                 },
                 {
                     "name": "Palak",
                     "designation": "Financial Advisor",
                     "description": "BBA and PGDM in finance, 2+ years of experience in Stock Market, Transparency is at the core of my client relationships, ensuring you are informed every step of the way. As your financial ally, I am committed to turning your financial goals into achievable milestones.",
                     "photo": "/team/palak.png",
-                    "key": "Deepti_Attreja"
+                    "key": "Palak"
                 }
             ]
         }

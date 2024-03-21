@@ -54,12 +54,24 @@ const AboutUs = () => {
                 <h3>{team.title}</h3>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-3 xl:grid-cols-4 items-center justify-center gap-8 lg:gap-24 mt-10">
+            <div className="flex justify-center mt-10">
+                <div
+                    key={team.founder.key}
+                    className="flex flex-col items-center gap-2  p-3 rounded-xl max-w-[20rem] min-h-[25rem]"
+                >
+                    <img src={team.founder.photo} width={200} height={200} />
+                    <h3 className="text-secondary">{team.founder.name}</h3>
+                    <p className="text-xl">{team.founder.designation}</p>
+                    <p className="text-justify md:min-w-[550px]">{team.founder.description}</p>
+                </div>
+            </div>
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 items-center justify-center gap-8 lg:gap-24 mt-10">
                 {team.teamMembers.map((member) => {
                     return (
                         <div
                             key={member.key}
-                            className="flex flex-col items-center gap-2 border border-secondary p-3 rounded-xl max-w-[20rem] min-h-[25rem]"
+                            className="flex flex-col items-center gap-2  p-3 rounded-xl max-w-[20rem] min-h-[25rem]"
                         >
                             <img src={member.photo} width={150} height={150} />
                             <h4 className="text-secondary">{member.name}</h4>
